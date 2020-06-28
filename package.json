@@ -1,6 +1,6 @@
 {
   "name": "@zcorky/sandbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simplae safe sandbox in browser/server",
   "main": "lib/index.js",
   "repository": "https://github.com/zcorky/sandbox",
