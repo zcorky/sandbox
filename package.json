@@ -81,5 +81,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@zcorky/lru": "^1.0.3"
   }
 }
